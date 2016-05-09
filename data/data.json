@@ -1,0 +1,482 @@
+[
+  {
+    "Year":2013,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":59.2
+  },
+  {
+    "Year":2013,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":46.4
+  },
+  {
+    "Year":2013,
+    "Race":"White",
+    "FertilityRate":62.7
+  },
+  {
+    "Year":2013,
+    "Race":"Black",
+    "FertilityRate":64.7
+  },
+  {
+    "Year":2012,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":62.2
+  },
+  {
+    "Year":2012,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":47
+  },
+  {
+    "Year":2012,
+    "Race":"White",
+    "FertilityRate":63
+  },
+  {
+    "Year":2012,
+    "Race":"Black",
+    "FertilityRate":65.1
+  },
+  {
+    "Year":2011,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":59.9
+  },
+  {
+    "Year":2011,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":47.7
+  },
+  {
+    "Year":2011,
+    "Race":"White",
+    "FertilityRate":63.4
+  },
+  {
+    "Year":2011,
+    "Race":"Black",
+    "FertilityRate":65.5
+  },
+  {
+    "Year":2010,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":59.2
+  },
+  {
+    "Year":2010,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":48.6
+  },
+  {
+    "Year":2010,
+    "Race":"White",
+    "FertilityRate":64.4
+  },
+  {
+    "Year":2010,
+    "Race":"Black",
+    "FertilityRate":66.3
+  },
+  {
+    "Year":2009,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":61.3
+  },
+  {
+    "Year":2009,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":51.6
+  },
+  {
+    "Year":2009,
+    "Race":"White",
+    "FertilityRate":66.4
+  },
+  {
+    "Year":2009,
+    "Race":"Black",
+    "FertilityRate":68.8
+  },
+  {
+    "Year":2008,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":63.3
+  },
+  {
+    "Year":2008,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":54
+  },
+  {
+    "Year":2008,
+    "Race":"White",
+    "FertilityRate":68.3
+  },
+  {
+    "Year":2008,
+    "Race":"Black",
+    "FertilityRate":70.6
+  },
+  {
+    "Year":2007,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":65.3
+  },
+  {
+    "Year":2007,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":55.5
+  },
+  {
+    "Year":2007,
+    "Race":"White",
+    "FertilityRate":69.4
+  },
+  {
+    "Year":2007,
+    "Race":"Black",
+    "FertilityRate":71.7
+  },
+  {
+    "Year":2006,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":63.7
+  },
+  {
+    "Year":2006,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":55.3
+  },
+  {
+    "Year":2006,
+    "Race":"White",
+    "FertilityRate":68.7
+  },
+  {
+    "Year":2006,
+    "Race":"Black",
+    "FertilityRate":71.4
+  },
+  {
+    "Year":2005,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":63
+  },
+  {
+    "Year":2005,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":53.6
+  },
+  {
+    "Year":2005,
+    "Race":"White",
+    "FertilityRate":66.8
+  },
+  {
+    "Year":2005,
+    "Race":"Black",
+    "FertilityRate":68.5
+  },
+  {
+    "Year":2004,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":64.5
+  },
+  {
+    "Year":2004,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":54.2
+  },
+  {
+    "Year":2004,
+    "Race":"White",
+    "FertilityRate":66.5
+  },
+  {
+    "Year":2004,
+    "Race":"Black",
+    "FertilityRate":67.2
+  },
+  {
+    "Year":2003,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":64.2
+  },
+  {
+    "Year":2003,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":54.8
+  },
+  {
+    "Year":2003,
+    "Race":"White",
+    "FertilityRate":66.4
+  },
+  {
+    "Year":2003,
+    "Race":"Black",
+    "FertilityRate":66
+  },
+  {
+    "Year":2002,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":63.3
+  },
+  {
+    "Year":2002,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":55.7
+  },
+  {
+    "Year":2002,
+    "Race":"White",
+    "FertilityRate":65.1
+  },
+  {
+    "Year":2002,
+    "Race":"Black",
+    "FertilityRate":65.7
+  },
+  {
+    "Year":2001,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":62.5
+  },
+  {
+    "Year":2001,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":56.8
+  },
+  {
+    "Year":2001,
+    "Race":"White",
+    "FertilityRate":65
+  },
+  {
+    "Year":2001,
+    "Race":"Black",
+    "FertilityRate":67.5
+  },
+  {
+    "Year":2000,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":65.8
+  },
+  {
+    "Year":2000,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":58.7
+  },
+  {
+    "Year":2000,
+    "Race":"White",
+    "FertilityRate":65.3
+  },
+  {
+    "Year":2000,
+    "Race":"Black",
+    "FertilityRate":70
+  },
+  {
+    "Year":1999,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":60.9
+  },
+  {
+    "Year":1999,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":59
+  },
+  {
+    "Year":1999,
+    "Race":"White",
+    "FertilityRate":64
+  },
+  {
+    "Year":1999,
+    "Race":"Black",
+    "FertilityRate":68.5
+  },
+  {
+    "Year":1998,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":60.1
+  },
+  {
+    "Year":1998,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":61.3
+  },
+  {
+    "Year":1998,
+    "Race":"White",
+    "FertilityRate":63.6
+  },
+  {
+    "Year":1998,
+    "Race":"Black",
+    "FertilityRate":69.4
+  },
+  {
+    "Year":1997,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":61.3
+  },
+  {
+    "Year":1997,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":60.8
+  },
+  {
+    "Year":1997,
+    "Race":"White",
+    "FertilityRate":62.8
+  },
+  {
+    "Year":1997,
+    "Race":"Black",
+    "FertilityRate":69
+  },
+  {
+    "Year":1996,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":62.3
+  },
+  {
+    "Year":1996,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":61.8
+  },
+  {
+    "Year":1996,
+    "Race":"White",
+    "FertilityRate":63.3
+  },
+  {
+    "Year":1996,
+    "Race":"Black",
+    "FertilityRate":69.2
+  },
+  {
+    "Year":1995,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":62.6
+  },
+  {
+    "Year":1995,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":63
+  },
+  {
+    "Year":1995,
+    "Race":"White",
+    "FertilityRate":63.6
+  },
+  {
+    "Year":1995,
+    "Race":"Black",
+    "FertilityRate":71
+  },
+  {
+    "Year":1994,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":63.9
+  },
+  {
+    "Year":1994,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":65.8
+  },
+  {
+    "Year":1994,
+    "Race":"White",
+    "FertilityRate":64.2
+  },
+  {
+    "Year":1994,
+    "Race":"Black",
+    "FertilityRate":75.9
+  },
+  {
+    "Year":1993,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":64.3
+  },
+  {
+    "Year":1993,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":69.7
+  },
+  {
+    "Year":1993,
+    "Race":"White",
+    "FertilityRate":64.9
+  },
+  {
+    "Year":1993,
+    "Race":"Black",
+    "FertilityRate":79.6
+  },
+  {
+    "Year":1992,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":66.1
+  },
+  {
+    "Year":1992,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":73.1
+  },
+  {
+    "Year":1992,
+    "Race":"White",
+    "FertilityRate":66.1
+  },
+  {
+    "Year":1992,
+    "Race":"Black",
+    "FertilityRate":82.4
+  },
+  {
+    "Year":1991,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":67.1
+  },
+  {
+    "Year":1991,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":73.9
+  },
+  {
+    "Year":1991,
+    "Race":"White",
+    "FertilityRate":66.7
+  },
+  {
+    "Year":1991,
+    "Race":"Black",
+    "FertilityRate":84.8
+  },
+  {
+    "Year":1990,
+    "Race":"Asian/Pacific Islander",
+    "FertilityRate":69.6
+  },
+  {
+    "Year":1990,
+    "Race":"American Indian/Alaska Native",
+    "FertilityRate":76.2
+  },
+  {
+    "Year":1990,
+    "Race":"White",
+    "FertilityRate":68.3
+  },
+  {
+    "Year":1990,
+    "Race":"Black",
+    "FertilityRate":86.8
+  }
+]
